@@ -75,6 +75,7 @@ _Build autonomous AI agents that run locally._
 | [AutoGen](https://github.com/microsoft/autogen) | Multi-agent conversation framework |
 | [Claude Code](https://docs.anthropic.com/en/docs/claude-code) | Agentic coding in the terminal |
 | [OpenHands](https://github.com/All-Hands-AI/OpenHands) | Open-source AI software developer |
+| [Suzent](https://github.com/cyzus/suzent) | Sovereign, local-first personal AI agent — you own its memory, authority, runtime, and continuity |
 
 ## MCP Ecosystem
 
